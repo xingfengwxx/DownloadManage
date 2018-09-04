@@ -1,4 +1,4 @@
-package com.wangxingxing.downloadmanage;
+package com.wangxingxing.downloadmanage.util;
 
 import android.util.Log;
 
